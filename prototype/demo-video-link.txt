@@ -1,0 +1,33 @@
+PROTOTYPE DEMO VIDEO
+
+===========================================
+
+INSTRUCTIONS:
+Add the link to your prototype demo video here.
+
+Suggested platforms:
+- YouTube (unlisted or public)
+- Vimeo
+- Loom
+- Google Drive (with public access)
+
+FORMAT:
+Demo Video: [INSERT LINK HERE]
+Duration: [X minutes]
+Description: [Brief description of what the video shows]
+
+RECOMMENDED CONTENT:
+- Walkthrough of key user flows
+- Demonstration of main features
+- Problem-solution narrative
+- User experience highlights
+- Technical implementation notes (if applicable)
+
+===========================================
+
+DEMO LINK: [To be added]
+
+ALTERNATIVE:
+If no video exists, consider recording a screen walkthrough of any remaining prototype files or creating a slide-based explanation of the intended user experience.
+
+===========================================

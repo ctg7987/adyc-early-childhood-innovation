@@ -1,0 +1,4 @@
+# .gitkeep
+
+This file ensures the directory structure is preserved in git even when empty.
+Add your wireframe files here and remove this .gitkeep file.
