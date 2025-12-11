@@ -1,6 +1,6 @@
 # ADYC Early Childhood Innovation 🏆
 
-[![Hackathon](https://img.shields.io/badge/ADYC_Hackathon-3rd_Place-bronze?style=for-the-badge)](https://github.com/ctg7987/adyc-early-childhood-innovation)
+![Hackathon](https://img.shields.io/badge/ADYC_Hackathon-3rd_Place-bronze?style=for-the-badge)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 > **3rd Place Winner** at the ADYC Hackathon (Abu Dhabi Youth Challenge × Techstars Startup Weekend)
@@ -37,7 +37,9 @@ These challenges are particularly acute in rapidly developing regions where trad
 
 ## 💡 Solution Overview
 
-Our solution addresses these challenges through [_solution description to be added based on actual project implementation_]:
+Our solution addresses these challenges through:
+
+_[Solution description to be added based on actual project implementation]_
 
 **Key Principles:**
 - **Evidence-Based**: Grounded in developmental psychology and early childhood research
