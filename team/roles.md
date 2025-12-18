@@ -269,12 +269,12 @@ User-centered design methodology combined with lean startup principles. The team
 
 ## Team Retrospective
 
-### What Went Well ✅
+### What Went Well 
 - [Success 1]
 - [Success 2]
 - [Success 3]
 
-### What Could Be Improved 🔄
+### What Could Be Improved 
 - [Improvement area 1]
 - [Improvement area 2]
 - [Improvement area 3]
