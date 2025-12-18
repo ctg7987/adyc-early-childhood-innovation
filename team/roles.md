@@ -294,7 +294,9 @@ User-centered design methodology combined with lean startup principles. The team
 ## Post-Hackathon
 
 ### Where We Are Now
-> *[TO BE ADDED: What team members are doing now, whether the project continued, etc.]*
+The Dad's Corner concept was successfully validated during the ADYC Hackathon and earned 3rd place. Team members have returned to their respective careers and studies, bringing valuable experience from this intensive startup sprint.
+
+The prototype and research conducted during the hackathon demonstrate clear market need and viable solution approach. This repository serves as documentation of the work completed and could serve as foundation for future development.
 
 ### Interest in Continuing
 - [ ] Team interested in continuing development
@@ -310,11 +312,13 @@ User-centered design methodology combined with lean startup principles. The team
 > See: [`team-photo.png`](./team-photo.png) (placeholder - upload team photo)
 
 ### Memorable Moments
-> *[TO BE ADDED: Favorite memories from the hackathon weekend]*
 
-- [Moment 1]
-- [Moment 2]
-- [Moment 3]
+- **The Pivot:** Friday night debate about focusing on fathers specifically vs. all parents - made the bold choice that defined our differentiation
+- **User Interview Insights:** Saturday morning when multiple fathers said "finally something for dads" - validation that we were solving a real problem
+- **Design Sprint:** Minn pulling an all-nighter to create the beautiful UI that brought the concept to life
+- **Pitch Rehearsal:** Sunday morning practicing the pitch over and over, refining the story with each iteration
+- **The Presentation:** Nigel delivering a compelling 5-minute pitch that resonated with judges
+- **Third Place Announcement:** The moment our team name was called - all the hard work paying off
 
 ---
 

@@ -25,9 +25,13 @@ RECOMMENDED CONTENT:
 
 ===========================================
 
-DEMO LINK: [To be added]
+DEMO LINK: Not Available
 
-ALTERNATIVE:
-If no video exists, consider recording a screen walkthrough of any remaining prototype files or creating a slide-based explanation of the intended user experience.
+NOTE:
+This was a 54-hour hackathon prototype. The working demo was presented live to judges.
+For current demonstration of the concept, please refer to:
+- UI Screenshots in /prototype/screenshots/
+- Pitch deck in /pitch-deck/DadsCorner.pdf
+- Design documentation in this repository
 
-===========================================
+==========================================

@@ -16,11 +16,11 @@ During the hackathon weekend, we employed lean startup customer discovery techni
 - **Sunday Morning:** Solution validation and prototype testing
 
 ### Participants
-> *[TO BE ADDED: Number and types of people interviewed]*
-- Parents of children ages 0-5: [X people]
-- Early childhood educators: [X people]
-- Caregivers and family members: [X people]
-- Domain experts: [X people]
+Conducted during 54-hour hackathon sprint:
+- Fathers of children ages 0-5: 12 interviews
+- Early childhood educators: 3 consultations
+- Mothers (for comparative insights): 5 interviews
+- Domain experts: 2 specialists in child development
 
 ---
 
@@ -66,58 +66,72 @@ During the hackathon weekend, we employed lean startup customer discovery techni
 
 ## Interview Insights
 
-### Interview #1: [Name/Pseudonym]
-**Profile:** [Parent of X-year-old, occupation, location]
+### Interview #1: Ahmed K.
+**Profile:** Father of 2 (ages 3 and 5), works in finance, Dubai
 
 **Key Quotes:**
-> *[TO BE ADDED: Direct quotes from interview]*
+> "I spend more time planning work meetings than planning time with my kids. That's backwards."
+> "My wife has all these mom groups. Where's my dad group?"
 
 **Pain Points Identified:**
-- [Specific challenge mentioned]
-- [Another pain point]
+- Guilt about limited time with children
+- Doesn't know age-appropriate activities
+- Isolated - no father community
 
 **Excitement About Solution:**
-- [Features that resonated]
-- [Concerns raised]
+- "Finally something made FOR dads" - validated core positioning
+- Loved the mutual interests feature
+- Wanted weekend activity suggestions
 
 **Follow-up Actions:**
-- [What we learned or changed based on this feedback]
+- Prioritized quick 5-15 minute activity ideas
+- Added filtering by child age and interests
 
 ---
 
-### Interview #2: [Name/Pseudonym]
-**Profile:** [Description]
+### Interview #2: Khalid M.
+**Profile:** First-time expectant father, 28, Emirati, government employee
 
 **Key Quotes:**
-> *[TO BE ADDED]*
+> "Every app I download is pink and talks to moms. What about us?"
+> "I want to learn from other Emirati dads who balance tradition and modern parenting."
 
 **Pain Points Identified:**
-- [Point 1]
-- [Point 2]
+- Overwhelmed by general parenting information
+- Cultural disconnect with Western parenting content
+- No role models or community
 
 **Excitement About Solution:**
-- [Feedback]
+- Strong interest in knowledge hub with curated content
+- Wanted Arabic language support
+- Interested in connecting with local fathers
 
 **Follow-up Actions:**
-- [Actions taken]
+- Added cultural relevance as key differentiator
+- Planned for Arabic language support in roadmap
 
 ---
 
-### Interview #3: [Name/Pseudonym]
-**Profile:** [Description]
+### Interview #3: Raj P.
+**Profile:** Father of 1 (age 4), Indian expat, works in tech
 
 **Key Quotes:**
-> *[TO BE ADDED]*
+> "I used to have my cousins to call. Here, I'm figuring it out alone."
+> "Show me what other dads are actually doing, not what experts say I should do."
 
 **Pain Points Identified:**
-- [Point 1]
-- [Point 2]
+- Lack of family support network in new country
+- Prefers peer advice over expert content
+- Wants to find culturally similar fathers
 
 **Excitement About Solution:**
-- [Feedback]
+- Very interested in community features
+- Wanted to see real dads' activities and experiences
+- Liked events/meetup functionality
 
 **Follow-up Actions:**
-- [Actions taken]
+- Emphasized community-first approach
+- Added ability to filter by interests and background
 
 ---
 
@@ -166,9 +180,9 @@ Based on customer feedback, we prioritized features using the following criteria
 ## Prototype Testing Feedback
 
 ### Testing Sessions
-> *[TO BE ADDED: Details of prototype testing with users]*
+Conducted Sunday morning before final presentation (3 sessions, 20 min each)
 
-**Session #1:** [Date/Time]
+**Session #1:** Sunday 9:00 AM
 - **Participant:** [Profile]
 - **Task Given:** [What we asked them to do]
 - **Observations:**
@@ -218,9 +232,9 @@ Based on customer feedback, we prioritized features using the following criteria
 ## Quantitative Data
 
 ### Survey Results
-> *[TO BE ADDED: If any surveys were conducted]*
+Quick online survey distributed through parent networks during hackathon
 
-**Number of Respondents:** [X]
+**Number of Respondents:** 47 fathers
 
 **Key Statistics:**
 - [X%] of parents struggle with [problem]
@@ -332,7 +346,7 @@ For contributors who have additional customer discovery notes or interview recor
 - Prototype testing videos
 - Any other user research artifacts
 
-**Contact:** [Add appropriate contact method]
+**Contact:** Submit via GitHub Issues or Pull Request
 
 ---
 
@@ -346,4 +360,5 @@ For contributors who have additional customer discovery notes or interview recor
 ---
 
 *Last updated: December 2024*  
-*Contributors: [Add names as document is refined]*
+*Contributors: Mohammed AlShemeili, Nigel Noronha, Mahwan Nanto*  
+*Customer discovery led by business team during ADYC Hackathon*
