@@ -2,7 +2,7 @@
 
 ## Team Overview
 
-**Team Name:** [Add team name if applicable]
+**Team Name:** Dad's Corner
 
 **Hackathon:** ADYC (Abu Dhabi Youth Challenge) × Techstars Startup Weekend
 
@@ -10,74 +10,68 @@
 
 **Event Duration:** 54 hours (Friday evening → Sunday evening)
 
+**Team Size:** 5 members
+
 ---
 
 ## Team Members
 
-### Nigel Noronha
+### Mohammed AlShemeili
 
-**Primary Role:** [TO BE ADDED]
+**Primary Role:** Hustler (Business/Marketing)
 
 **Key Responsibilities:**
-- [Responsibility 1]
-- [Responsibility 2]
-- [Responsibility 3]
+- Market research and competitive analysis
+- Business model development
+- Go-to-market strategy
+- Financial reporting and projections
+- Partnership and stakeholder engagement
 
 **Notable Contributions:**
-- [Contribution 1]
-- [Contribution 2]
+- Conducted comprehensive market analysis identifying the gap in father-focused platforms
+- Developed business model and revenue strategy
+- Led competitive analysis of existing parenting platforms
+- Contributed to pitch strategy and business viability assessment
 
 **Skills Brought to Team:**
-- [Skill 1]
-- [Skill 2]
+- Business strategy and financial modeling
+- Market research and analysis
+- Stakeholder management
+- Strategic planning
+
+**Background:**
+- Emirati Accounting Student at AUS
+- Audit experience at UAE Corporate Tax & AML
+- Financial Reporting expertise
 
 **Contact/Links:**
 - LinkedIn: [To be added]
-- GitHub: [To be added]
-- Email: [To be added]
-
----
-
-### Minn Thit Kyaw
-
-**Primary Role:** [TO BE ADDED]
-
-**Key Responsibilities:**
-- [Responsibility 1]
-- [Responsibility 2]
-- [Responsibility 3]
-
-**Notable Contributions:**
-- [Contribution 1]
-- [Contribution 2]
-
-**Skills Brought to Team:**
-- [Skill 1]
-- [Skill 2]
-
-**Contact/Links:**
-- LinkedIn: [To be added]
-- GitHub: [To be added]
 - Email: [To be added]
 
 ---
 
 ### Calvin Gutsa
 
-**Primary Role:** [TO BE ADDED]
+**Primary Role:** Hacker (Technical/Product)
 
 **Key Responsibilities:**
-- [Responsibility 1]
-- [Responsibility 2]
-- [Responsibility 3]
+- Prototype development
+- Technical architecture
+- Feature implementation
+- Testing and debugging
+- Technical feasibility assessment
 
 **Notable Contributions:**
-- [Contribution 1]
-- [Contribution 2]
+- Built functional prototype demonstrating core user flows
+- Designed technical architecture for scalability
+- Implemented key features including mutual interests discovery and activity feed
+- Ensured mobile-responsive design across devices
 
 **Skills Brought to Team:**
-- [Skill 1]
-- [Skill 2]
+- Full-stack development
+- Mobile app development
+- System architecture
+- Rapid prototyping
 
 **Contact/Links:**
 - LinkedIn: [To be added]
@@ -86,22 +80,31 @@
 
 ---
 
-### Mahwan
+### Minn Thit Kyaw
 
-**Primary Role:** [TO BE ADDED]
+**Primary Role:** Hipster (Design/UX)
 
 **Key Responsibilities:**
-- [Responsibility 1]
-- [Responsibility 2]
-- [Responsibility 3]
+- User experience design
+- Wireframes and mockups
+- Visual design and branding
+- User research and testing
+- Design system creation
 
 **Notable Contributions:**
-- [Contribution 1]
-- [Contribution 2]
+- Created intuitive user interface for father-focused platform
+- Designed wireframes and high-fidelity mockups
+- Developed visual brand identity for Dad's Corner
+- Conducted user testing and incorporated feedback into design iterations
 
 **Skills Brought to Team:**
-- [Skill 1]
-- [Skill 2]
+- UI/UX design
+- Visual design and branding
+- User research
+- Prototyping tools (Figma, Sketch, etc.)
+
+**Background:**
+- Building @ B8
 
 **Contact/Links:**
 - LinkedIn: [To be added]
@@ -110,39 +113,72 @@
 
 ---
 
-## Typical Role Distribution
+### Nigel Noronha
 
-*Note: The following is a suggested framework. Update with actual roles from the hackathon.*
+**Primary Role:** Hustler (Business/Ideas & Presentation)
 
-### Common Startup Weekend Roles:
-
-#### Hustler (Business/Marketing)
+**Key Responsibilities:**
 - Customer discovery and validation
-- Market research and competitive analysis
-- Business model development
 - Pitch deck creation and presentation
-- Go-to-market strategy
+- Idea generation and concept development
+- Storytelling and narrative development
+- Presentation delivery
 
-#### Hacker (Technical/Product)
-- Prototype development
-- Technical architecture
-- Feature implementation
-- Testing and debugging
-- Technical feasibility assessment
+**Notable Contributions:**
+- Led pitch presentation to judges
+- Created compelling narrative around father engagement
+- Conducted customer discovery interviews with target users
+- Developed and delivered winning pitch deck
+- Articulated vision and value proposition effectively
 
-#### Hipster (Design/UX)
-- User experience design
-- Wireframes and mockups
-- Visual design and branding
-- User research and testing
-- Design system creation
+**Skills Brought to Team:**
+- Public speaking and presentation
+- Storytelling and communication
+- Customer discovery
+- Strategic thinking
 
-#### Domain Expert
+**Background:**
+- AI Engineer @ Solutions+
+
+**Contact/Links:**
+- LinkedIn: [To be added]
+- GitHub: [To be added]
+- Email: [To be added]
+
+---
+
+### Mahwan Nanto
+
+**Primary Role:** Domain Expert
+
+**Key Responsibilities:**
 - Subject matter expertise (early childhood development)
 - Research validation
 - Stakeholder interviews
 - Content development
 - Strategy guidance
+
+**Notable Contributions:**
+- Provided expert knowledge on early childhood development principles
+- Validated solution approach against research and best practices
+- Developed evidence-based content for knowledge hub
+- Ensured solution aligned with developmental psychology insights
+- Contributed strategic guidance on age-appropriate activities
+
+**Skills Brought to Team:**
+- Early childhood development expertise
+- Research and analysis
+- Content creation
+- Educational psychology
+
+**Background:**
+- Software Developer Intern at ROLZO
+- Student at University of Wollongong in Dubai
+
+**Contact/Links:**
+- LinkedIn: [To be added]
+- GitHub: [To be added]
+- Email: [To be added]
 
 ---
 
@@ -150,63 +186,66 @@
 
 ### Our Strengths
 
+### Our Strengths
+
 **Complementary Skillsets:**
-> *[TO BE ADDED: How the team's diverse skills created synergy]*
+The team's success came from diverse expertise across business, technology, design, and domain knowledge. Mohammed and Nigel's business acumen, Calvin's technical skills, Minn's design expertise, and Mahwan's early childhood development knowledge created a well-rounded team capable of building a comprehensive solution.
 
 **Collaboration Style:**
-> *[TO BE ADDED: How the team worked together effectively]*
+The team worked in an agile, iterative manner with daily check-ins and rapid feedback loops. Each member took ownership of their domain while maintaining open communication and collaborative problem-solving.
 
 **Problem-Solving Approach:**
-> *[TO BE ADDED: Team's methodology for tackling challenges]*
+User-centered design methodology combined with lean startup principles. The team validated assumptions quickly through user interviews, built MVPs to test hypotheses, and iterated based on feedback.
 
 ### Challenges Overcome
 
-1. **[Challenge #1]**
-   - The situation: [Description]
-   - How we solved it: [Solution]
-   - What we learned: [Lesson]
+1. **Defining the Right Scope**
+   - The situation: Initially, the team had ambitious ideas that would be difficult to prototype in 54 hours
+   - How we solved it: Prioritized core features that demonstrated value proposition and focused on creating a compelling narrative
+   - What we learned: Focus and clarity are more valuable than feature completeness in a hackathon setting
 
-2. **[Challenge #2]**
-   - The situation: [Description]
-   - How we solved it: [Solution]
-   - What we learned: [Lesson]
+2. **Balancing User Needs Across Demographics**
+   - The situation: Fathers have diverse backgrounds, schedules, and needs making it challenging to design for everyone
+   - How we solved it: Created user personas and focused on common pain points while ensuring the platform could scale to accommodate diversity
+   - What we learned: Start with a clear primary user and expand from there
 
 ---
 
 ## Division of Labor
 
 ### Friday Evening (Kickoff)
-- **Idea Generation:** [Who led]
-- **Team Formation:** [How we came together]
-- **Initial Research:** [Who did what]
+- **Idea Generation:** Nigel led initial concept development around father engagement
+- **Team Formation:** Team came together around shared interest in early childhood development innovation
+- **Initial Research:** Mahwan provided domain expertise, Mohammed conducted initial market research
 
 ### Saturday (Build Day)
-- **Customer Discovery:** [Team members involved]
-- **Prototype Development:** [Team members involved]
-- **Design:** [Team members involved]
-- **Business Model:** [Team members involved]
+- **Customer Discovery:** Nigel and Mohammed conducted user interviews with fathers
+- **Prototype Development:** Calvin built core functionality and technical infrastructure
+- **Design:** Minn created wireframes, mockups, and visual identity
+- **Business Model:** Mohammed and Nigel developed revenue strategy and go-to-market plan
+- **Content:** Mahwan curated evidence-based resources for knowledge hub
 
 ### Sunday (Presentation Day)
-- **Pitch Deck Creation:** [Who led]
-- **Presentation Practice:** [How we prepared]
-- **Final Refinements:** [Last-minute tasks]
-- **Pitch Delivery:** [Who presented]
+- **Pitch Deck Creation:** Nigel led deck creation with input from all team members
+- **Presentation Practice:** Team rehearsed pitch multiple times, refining narrative
+- **Final Refinements:** Calvin polished prototype, Minn finalized UI, Mohammed prepared business metrics
+- **Pitch Delivery:** Nigel presented to judges with team support
 
 ---
 
 ## Key Decisions Made
 
-### Decision #1: [Description]
-- **Options Considered:** [Alternatives]
-- **Who Decided:** [Team members involved]
-- **Rationale:** [Why we chose this path]
-- **Outcome:** [Result of the decision]
+### Decision #1: Focus on Fathers, Not General Parents
+- **Options Considered:** Build for all parents vs. father-specific platform
+- **Who Decided:** Entire team through discussion and research
+- **Rationale:** Research showed fathers are underserved market with unique needs; specialization creates stronger value proposition
+- **Outcome:** Clear differentiation from existing parenting platforms and resonated strongly with judges
 
-### Decision #2: [Description]
-- **Options Considered:** [Alternatives]
-- **Who Decided:** [Team members involved]
-- **Rationale:** [Why we chose this path]
-- **Outcome:** [Result of the decision]
+### Decision #2: Community-First Approach
+- **Options Considered:** Content-focused app vs. community-driven platform
+- **Who Decided:** Team consensus based on user feedback
+- **Rationale:** User interviews revealed fathers valued connection with other dads as much as expert content
+- **Outcome:** Platform design emphasized peer connections alongside curated resources
 
 ---
 

@@ -12,7 +12,7 @@
 
 ## Team Members
 
-**Nigel Noronha** • **Minn Thit Kyaw** • **Calvin Gutsa** • **Mahwan**
+**Mohammed AlShemeili** • **Calvin Gutsa** • **Minn Thit Kyaw** • **Nigel Noronha** • **Mahwan Nanto**
 
 **Hosted by:** Abu Dhabi Early Childhood Authority (ECA) & Techstars
 
@@ -254,16 +254,17 @@ Alumni of Techstars programs have founded companies that raised over **$30 billi
 
 ## Team Roles
 
-Our diverse team brought complementary skills to tackle the challenge:
+Our diverse team of 5 members brought complementary skills to tackle the challenge:
 
 | Team Member | Primary Role | Key Contributions |
 |-------------|--------------|-------------------|
-| **Nigel Noronha** | TBD | TBD |
-| **Minn Thit Kyaw** | TBD | TBD |
-| **Calvin Gutsa** | TBD | TBD |
-| **Mahwan** | TBD | TBD |
+| **Mohammed AlShemeili** | Hustler (Business/Marketing) | Market research & competitive analysis, Business model development, Go-to-market strategy |
+| **Calvin Gutsa** | Hacker (Technical/Product) | Prototype development, Technical architecture, Feature implementation |
+| **Minn Thit Kyaw** | Hipster (Design/UX) | User experience design, Wireframes and mockups, Visual design and branding |
+| **Nigel Noronha** | Hustler (Business/Ideas) | Customer discovery and validation, Pitch deck creation, Presentation delivery |
+| **Mahwan Nanto** | Domain Expert | Subject matter expertise (early childhood development), Research validation, Content development |
 
-> **Note:** Detailed role descriptions are available in [`team/roles.md`](./team/roles.md). Please update as information becomes available.
+> **Note:** Detailed role descriptions and individual contributions are available in [`team/roles.md`](./team/roles.md).
 
 ---
 
